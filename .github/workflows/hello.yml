@@ -4,7 +4,7 @@ on:
 jobs:
   says-hello:
     runs-on: ubuntu-lates
-    steps:
-      -name : "say hello to world"
-       run: echo "Hello"
+    steps :
+    -name : "say hello to world"
+     run: echo "Hello"
   
