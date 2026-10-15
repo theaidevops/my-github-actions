@@ -5,6 +5,6 @@ jobs:
   says-hello:
     runs-on: ubuntu-lates
     steps :
-    -name : "say hello to world"
-     run: echo "Hello"
+      -name : "say hello to world"
+       run: echo "Hello"
   
