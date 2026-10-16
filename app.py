@@ -1,4 +1,4 @@
-#we are good to go okay !
+#we are good to go okay, now !
 from flask import Flask, render_template
 
 app = Flask(__name__)
